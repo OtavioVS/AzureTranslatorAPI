@@ -1,0 +1,6 @@
+@AzureTradutor_HostAddress = http://localhost:5216
+
+GET {{AzureTradutor_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

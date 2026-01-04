@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureTradutor", "AzureTradutor.csproj", "{AB0B5393-7752-D68E-67D2-A111236DD12E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB0B5393-7752-D68E-67D2-A111236DD12E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB0B5393-7752-D68E-67D2-A111236DD12E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB0B5393-7752-D68E-67D2-A111236DD12E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB0B5393-7752-D68E-67D2-A111236DD12E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CAB18D8-BDA5-4C41-BBCD-D3050D794F22}
+	EndGlobalSection
+EndGlobal
